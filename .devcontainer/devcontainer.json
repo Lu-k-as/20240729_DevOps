@@ -26,7 +26,7 @@
     "postCreateCommand": "dotnet restore",
     "remoteUser": "vscode",
     "hostRequirements": {
-        "memory": "16gb",
+        "memory": "3gb",
         "cpus": 4
     },
 
